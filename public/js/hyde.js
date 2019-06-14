@@ -1,9 +1,9 @@
 /**
- * Author: Ma Yanbin <myanbin@gmail.com>
- * https://github.com/myanbin
+ * Author: Ma Yanbin <liulianjushi@gmail.com>
+ * https://github.com/liulianjushi
  */
 
-console.log("This Jekyll theme's author is Ma Yanbin <myanbin@gmail.com>");
+console.log("This Jekyll theme's author is Ma Yanbin <liulianjushi@gmail.com>");
 
 $(function() {
 

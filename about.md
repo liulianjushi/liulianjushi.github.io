@@ -19,12 +19,12 @@ sequence: 9
 {% endif %}
 
 
-我是<u>饮冰先生</u>，毕业于北京邮电大学计算机专业，目前在中国北京居住和工作，从事 IT 行业。我喜爱阅读、电影、数码技术和一切美的事物，也喜欢哲学和历史。我是一个具有 [INFP](http://www.personalitypage.com/INFP.html) 性格的人。
+我是<u>流恋居士</u>，毕业于北京邮电大学计算机专业，目前在中国北京居住和工作，从事 IT 行业。我喜爱阅读、电影、数码技术和一切美的事物，也喜欢哲学和历史。我是一个具有 [INFP](http://www.personalitypage.com/INFP.html) 性格的人。
 
 
 ## 更加了解我
 
-我在[豆瓣读书](http://book.douban.com/people/yianbin)上分享我正在看的书以及想看的书，在 [GitHub](https://github.com/myanbin) 上维护我的代码以及关注开源项目，你还可以在 [Linkedin](https://www.linkedin.com/in/myanbin) 上找到我。
+我在[豆瓣读书](http://book.douban.com/people/yianbin)上分享我正在看的书以及想看的书，在 [GitHub](https://github.com/liulianjushi) 上维护我的代码以及关注开源项目，你还可以在 [Linkedin](https://www.linkedin.com/in/liulianjushi) 上找到我。
 
 我的一些摄影作品会发布在[影集]({{site.baseurl}}/photo.html)中。
 
@@ -33,7 +33,7 @@ sequence: 9
 
 花时间进行写作是一件很有意义也很值得去做的事。我希望能在这里来分享技术、记录生活，同时也希望能结交到更多朋友。
 
-本站使用 GitHub Page 和 Jekyll 进行搭建，如果你喜欢这个博客，可以下载我的[源代码](https://github.com/myanbin/myanbin.github.io)进行修改。
+本站使用 GitHub Page 和 Jekyll 进行搭建，如果你喜欢这个博客，可以下载我的[源代码](https://github.com/liulianjushi/liulianjushi.github.io)进行修改。
 
 ## 版权说明
 
